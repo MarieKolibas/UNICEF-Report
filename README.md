@@ -1,3 +1,2 @@
 # UNICEF-Report
-Quarto Assignment
-Marie Kolibas
+Quarto Assignment - Marie Kolibas
